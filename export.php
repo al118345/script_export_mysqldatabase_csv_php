@@ -1,4 +1,5 @@
 <?php
+ini_set('memory_limit', '7444M');
 
 /* vars for export */
 // database record to be exported
